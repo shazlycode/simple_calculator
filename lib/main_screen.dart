@@ -22,6 +22,7 @@ class _MainScreenState extends State<MainScreen> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
+          Text("New Tex"),
           SizedBox(
             height: height * .3,
           ),
